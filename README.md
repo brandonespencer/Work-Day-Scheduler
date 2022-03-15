@@ -8,8 +8,7 @@ This is a simple work day calendar application that allows a user to save events
 
 ## Websites
 * Github: 
-* Deployed:
-
+* Deployed:https://brandonespencer.github.io/Work-Day-Scheduler-/
 ## Functionality
 * When the planner is openned, the current day is displayed at the top of the calendar
 * When scrolled down, the user is presented with time blocks for standard business hours (from 9AM to 5PM)
@@ -28,8 +27,7 @@ This is a simple work day calendar application that allows a user to save events
 * jQuery
 * Moment.js
   
-## Demo
-![Day Planner Demo](Assets/day-planner-demo.gif)
+
 
 ## License
 MIT
