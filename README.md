@@ -7,8 +7,8 @@ This is a simple work day calendar application that allows a user to save events
 3. Use a text editor to view all coding, Visual Studio Coding is recommended.
 
 ## Websites
-* Github: 
-* Deployed:https://brandonespencer.github.io/Work-Day-Scheduler-/
+* Github: https://github.com/brandonespencer/Work-Day-Scheduler-.git
+* * Deployed:https://brandonespencer.github.io/Work-Day-Scheduler-/
 ## Functionality
 * When the planner is openned, the current day is displayed at the top of the calendar
 * When scrolled down, the user is presented with time blocks for standard business hours (from 9AM to 5PM)
