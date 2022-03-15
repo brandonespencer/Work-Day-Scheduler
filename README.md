@@ -7,8 +7,8 @@ This is a simple work day calendar application that allows a user to save events
 3. Use a text editor to view all coding, Visual Studio Coding is recommended.
 
 ## Websites
-* Github: https://github.com/mmeii/work-day-scheduler
-* Deployed: https://mmeii.github.io/work-day-scheduler/
+* Github: 
+* Deployed:
 
 ## Functionality
 * When the planner is openned, the current day is displayed at the top of the calendar
